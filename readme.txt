@@ -1,3 +1,5 @@
+https://senselab.med.yale.edu/modeldb/ShowModel.cshtml?model=231238
+
 This is the readme for an updated version of the Brian model created by R. Brette, which is itself a recreation of a NEURON model from the paper:
 
 Rothman JS, Manis PB (2003) The roles potassium currents play in
